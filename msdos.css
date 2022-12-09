@@ -1,0 +1,186 @@
+ .u-section-1 {
+  min-height: 706px;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 706px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 400;
+  margin: 19px auto 0 -116px;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 400;
+  margin: 58px auto 0 -116px;
+}
+
+.u-section-1 .u-icon-1 {
+  width: 24px;
+  height: 24px;
+  margin: -50px auto 0 -116px;
+  padding: 0;
+}
+
+.u-section-1 .u-custom-html-1 {
+  height: auto;
+  min-height: 25px;
+  margin: -24px -2px 0 2px;
+}
+
+.u-section-1 .u-custom-html-2 {
+  height: auto;
+  min-height: 65px;
+  margin: 66px 116px 0 -116px;
+}
+
+.u-section-1 .u-custom-html-3 {
+  height: auto;
+  min-height: 65px;
+  margin: -54px 232px 0 -116px;
+}
+
+.u-section-1 .u-custom-html-4 {
+  height: auto;
+  min-height: 65px;
+  margin: -32px 232px 0 -116px;
+}
+
+.u-section-1 .u-custom-html-5 {
+  height: auto;
+  min-height: 65px;
+  margin: -32px 232px 0 -116px;
+}
+
+.u-section-1 .u-custom-html-6 {
+  height: auto;
+  min-height: 65px;
+  margin: -32px 232px 0 -116px;
+}
+
+.u-section-1 .u-custom-html-7 {
+  height: auto;
+  min-height: 65px;
+  margin: -32px 232px 0 -116px;
+}
+
+.u-section-1 .u-custom-html-8 {
+  height: auto;
+  min-height: 65px;
+  margin: -32px 232px 60px -116px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: -16px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-left: -16px;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-custom-html-2 {
+    width: 940px;
+    margin-right: 216px;
+    margin-left: -16px;
+  }
+
+  .u-section-1 .u-custom-html-3 {
+    margin-right: 100px;
+    margin-left: -16px;
+  }
+
+  .u-section-1 .u-custom-html-4 {
+    margin-right: 100px;
+    margin-left: -16px;
+  }
+
+  .u-section-1 .u-custom-html-5 {
+    margin-right: 100px;
+    margin-left: -16px;
+  }
+
+  .u-section-1 .u-custom-html-6 {
+    margin-right: 100px;
+    margin-left: -16px;
+  }
+
+  .u-section-1 .u-custom-html-7 {
+    margin-right: 100px;
+    margin-left: -16px;
+  }
+
+  .u-section-1 .u-custom-html-8 {
+    margin-right: 100px;
+    margin-left: -16px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-top: 44px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 33px;
+  }
+
+  .u-section-1 .u-custom-html-2 {
+    width: 720px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-custom-html-3 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-custom-html-4 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-custom-html-5 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-custom-html-6 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-custom-html-7 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-custom-html-8 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-custom-html-2 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    margin-top: 69px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -17px;
+  }
+
+  .u-section-1 .u-custom-html-2 {
+    width: 340px;
+  }
+}
